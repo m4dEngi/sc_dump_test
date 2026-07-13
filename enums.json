@@ -664,6 +664,7 @@
     "controller_steamframe_pair": 21,
     "controller_steamos_handheld": 100,
     "controller_switch2_pro": 51,
+    "controller_switch2_pro_generic": 52,
     "controller_switch_joycon_left": 39,
     "controller_switch_joycon_pair": 41,
     "controller_switch_joycon_right": 40,
@@ -783,7 +784,6 @@
     "CLegacy": 256,
     "Console": 540,
     "Deckard": 5001,
-    "Fremont": 546,
     "Handheld": 512,
     "LegionGoS": 545,
     "PS3": 272,
@@ -791,6 +791,7 @@
     "StandardPC": 1,
     "SteamBox": 288,
     "SteamDeck": 544,
+    "SteamMachine": 546,
     "SteamOSGeneric": 541,
     "Tesla": 320,
     "Unknown": 0
