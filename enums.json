@@ -1698,6 +1698,23 @@
     "Valid": 1,
     "Whitelist": 2
   },
+  "ESteamControllerConfigTemplateWorkshopFileID": {
+    "AC-": 14,
+    "GAME_": 13,
+    "absolute_mouse.vdf": 8,
+    "gamepad+mouse.vdf": 3,
+    "gamepad_flickstick.vdf": 12,
+    "gamepad_fps.vdf": 2,
+    "gamepad_joystick.vdf": 4,
+    "gamepad_platformer.vdf": 5,
+    "relative_mouse.vdf": 10,
+    "streaming_steamdesktop.vdf": 11,
+    "unk_0": 0,
+    "unk_1": 1,
+    "unk_15": 15,
+    "unk_7": 7,
+    "wasd.vdf": 6
+  },
   "EStoreCategory": {
     "category_1": 1,
     "category_10": 10,
