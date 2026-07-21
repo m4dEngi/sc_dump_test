@@ -1499,11 +1499,6 @@
     "Partial refund": 8,
     "Refunded to wallet": 9
   },
-  "ERegKeyRoot": {
-    "HKEY_LOCAL_MACHINE (force 64Bit)": 1,
-    "HKEY_CURRENT_USER (force 64Bit)": 2,
-    "HKEY_CLASSES_ROOT (force 64Bit)": 3
-  },
   "ERemoteStorageFileRoot": {
     "Invalid": -1,
     "Default": 0,

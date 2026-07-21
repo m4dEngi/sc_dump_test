@@ -1,0 +1,2516 @@
+[
+  {
+    "descriptor": "k_EMsgDestJobFailed",
+    "flags": 43,
+    "id": 113,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgHubConnect",
+    "flags": 43,
+    "id": 124,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgServiceMethod",
+    "flags": 43,
+    "id": 146,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgServiceMethodResponse",
+    "flags": 47,
+    "id": 147,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgServiceMethodCallFromClient",
+    "flags": 6,
+    "id": 151,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgServiceMethodSendToClient",
+    "flags": 6,
+    "id": 152,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientChatAction",
+    "flags": 2,
+    "id": 597,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientLogOn_Deprecated",
+    "flags": 2,
+    "id": 701,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientAnonLogOn_Deprecated",
+    "flags": 2,
+    "id": 702,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientHeartBeat",
+    "flags": 2,
+    "id": 703,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientVACResponse",
+    "flags": 2,
+    "id": 704,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientLogOff",
+    "flags": 2,
+    "id": 706,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientNoUDPConnectivity",
+    "flags": 2,
+    "id": 707,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientConnectionStats",
+    "flags": 2,
+    "id": 710,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientPingResponse",
+    "flags": 2,
+    "id": 712,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRemoveFriend",
+    "flags": 2,
+    "id": 714,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGamesPlayedNoDataBlob",
+    "flags": 6,
+    "id": 715,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientChangeStatus",
+    "flags": 2,
+    "id": 716,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientFriendMsg",
+    "flags": 6,
+    "id": 718,
+    "server_type": 102
+  },
+  {
+    "descriptor": "k_EMsgClientSystemIM",
+    "flags": 2,
+    "id": 726,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientSystemIMAck",
+    "flags": 2,
+    "id": 727,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetLegacyGameKey",
+    "flags": 2,
+    "id": 730,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientContentServerLogOn_Deprecated",
+    "flags": 2,
+    "id": 731,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientAckGuestPass",
+    "flags": 2,
+    "id": 740,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRedeemGuestPass",
+    "flags": 2,
+    "id": 741,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGamesPlayed",
+    "flags": 6,
+    "id": 742,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientRegisterKey",
+    "flags": 2,
+    "id": 743,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientInviteUserToClan",
+    "flags": 2,
+    "id": 744,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientAcknowledgeClanInvite",
+    "flags": 2,
+    "id": 745,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientAppUsageEvent",
+    "flags": 2,
+    "id": 747,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientLogOnResponse",
+    "flags": 2,
+    "id": 751,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientSetHeartbeatRate",
+    "flags": 2,
+    "id": 755,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientNotLoggedOnDeprecated",
+    "flags": 2,
+    "id": 756,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientLoggedOff",
+    "flags": 2,
+    "id": 757,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSApprove",
+    "flags": 2,
+    "id": 758,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSDeny",
+    "flags": 2,
+    "id": 759,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSKick",
+    "flags": 2,
+    "id": 760,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientPurchaseResponse",
+    "flags": 2,
+    "id": 763,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientPing",
+    "flags": 2,
+    "id": 764,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientNOP",
+    "flags": 2,
+    "id": 765,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientPersonaState",
+    "flags": 2,
+    "id": 766,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientFriendsList",
+    "flags": 2,
+    "id": 767,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientAccountInfo",
+    "flags": 2,
+    "id": 768,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientNewsUpdate",
+    "flags": 2,
+    "id": 771,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGameConnectDeny",
+    "flags": 2,
+    "id": 773,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSStatusReply",
+    "flags": 2,
+    "id": 774,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGameConnectTokens",
+    "flags": 2,
+    "id": 779,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientLicenseList",
+    "flags": 2,
+    "id": 780,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientVACBanStatus",
+    "flags": 2,
+    "id": 782,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetLegacyGameKeyResponse",
+    "flags": 2,
+    "id": 785,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientAddFriend",
+    "flags": 2,
+    "id": 791,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientAddFriendResponse",
+    "flags": 2,
+    "id": 792,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientAckGuestPassResponse",
+    "flags": 2,
+    "id": 796,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRedeemGuestPassResponse",
+    "flags": 2,
+    "id": 797,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientUpdateGuestPassesList",
+    "flags": 2,
+    "id": 798,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientChatMsg",
+    "flags": 2,
+    "id": 799,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientChatInvite",
+    "flags": 2,
+    "id": 800,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientJoinChat",
+    "flags": 2,
+    "id": 801,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientChatMemberInfo",
+    "flags": 2,
+    "id": 802,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientLogOnWithCredentials_Deprecated",
+    "flags": 2,
+    "id": 803,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientPasswordChangeResponse",
+    "flags": 2,
+    "id": 805,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientChatEnter",
+    "flags": 2,
+    "id": 807,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientFriendRemovedFromSource",
+    "flags": 2,
+    "id": 808,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientCreateChat",
+    "flags": 2,
+    "id": 809,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientCreateChatResponse",
+    "flags": 2,
+    "id": 810,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientP2PIntroducerMessage",
+    "flags": 2,
+    "id": 813,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientChatActionResult",
+    "flags": 2,
+    "id": 814,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRequestFriendData",
+    "flags": 6,
+    "id": 815,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientGetUserStats",
+    "flags": 2,
+    "id": 818,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetUserStatsResponse",
+    "flags": 2,
+    "id": 819,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientStoreUserStats",
+    "flags": 2,
+    "id": 820,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientStoreUserStatsResponse",
+    "flags": 2,
+    "id": 821,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientClanState",
+    "flags": 2,
+    "id": 822,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientServiceModule",
+    "flags": 6,
+    "id": 830,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientServiceCall",
+    "flags": 6,
+    "id": 831,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientServiceCallResponse",
+    "flags": 6,
+    "id": 832,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientSteamUsageEvent",
+    "flags": 6,
+    "id": 842,
+    "server_type": 17
+  },
+  {
+    "descriptor": "k_EMsgClientCheckPassword",
+    "flags": 2,
+    "id": 845,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientResetPassword",
+    "flags": 2,
+    "id": 846,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientCheckPasswordResponse",
+    "flags": 2,
+    "id": 848,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientResetPasswordResponse",
+    "flags": 2,
+    "id": 849,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientSessionToken",
+    "flags": 2,
+    "id": 850,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientDRMProblemReport",
+    "flags": 2,
+    "id": 851,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientSetIgnoreFriend",
+    "flags": 2,
+    "id": 855,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientSetIgnoreFriendResponse",
+    "flags": 2,
+    "id": 856,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetAppOwnershipTicket",
+    "flags": 2,
+    "id": 857,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetAppOwnershipTicketResponse",
+    "flags": 2,
+    "id": 858,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientServerList",
+    "flags": 2,
+    "id": 880,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientDRMBlobRequest",
+    "flags": 2,
+    "id": 896,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientDRMBlobResponse",
+    "flags": 2,
+    "id": 897,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSDisconnectNotice",
+    "flags": 2,
+    "id": 901,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSStatus",
+    "flags": 2,
+    "id": 903,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSUserPlaying",
+    "flags": 2,
+    "id": 905,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSStatus2",
+    "flags": 2,
+    "id": 906,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSStatusUpdate_Unused",
+    "flags": 2,
+    "id": 907,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSServerType",
+    "flags": 2,
+    "id": 908,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSPlayerList",
+    "flags": 2,
+    "id": 909,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSGetPlayStats",
+    "flags": 2,
+    "id": 918,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSGetPlayStatsResponse",
+    "flags": 2,
+    "id": 919,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSGetUserGroupStatus",
+    "flags": 2,
+    "id": 920,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSGetUserGroupStatusResponse",
+    "flags": 2,
+    "id": 923,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSGetReputation",
+    "flags": 2,
+    "id": 936,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSGetReputationResponse",
+    "flags": 2,
+    "id": 937,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSAssociateWithClan",
+    "flags": 2,
+    "id": 938,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSAssociateWithClanResponse",
+    "flags": 2,
+    "id": 939,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSComputeNewPlayerCompatibility",
+    "flags": 2,
+    "id": 940,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGSComputeNewPlayerCompatibilityResponse",
+    "flags": 2,
+    "id": 941,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgFileXferRequest",
+    "flags": 43,
+    "id": 1200,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgFileXferResponse",
+    "flags": 43,
+    "id": 1201,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgFileXferData",
+    "flags": 43,
+    "id": 1202,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgFileXferEnd",
+    "flags": 43,
+    "id": 1203,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgFileXferDataAck",
+    "flags": 43,
+    "id": 1204,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgChannelEncryptRequest",
+    "flags": 43,
+    "id": 1303,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgChannelEncryptResponse",
+    "flags": 43,
+    "id": 1304,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientDPCheckSpecialSurvey",
+    "flags": 6,
+    "id": 1620,
+    "server_type": 17
+  },
+  {
+    "descriptor": "k_EMsgClientDPCheckSpecialSurveyResponse",
+    "flags": 6,
+    "id": 1621,
+    "server_type": 17
+  },
+  {
+    "descriptor": "k_EMsgClientDPSendSpecialSurveyResponse",
+    "flags": 6,
+    "id": 1622,
+    "server_type": 17
+  },
+  {
+    "descriptor": "k_EMsgClientDPSendSpecialSurveyResponseReply",
+    "flags": 6,
+    "id": 1623,
+    "server_type": 17
+  },
+  {
+    "descriptor": "k_EMsgClientChatRoomInfo",
+    "flags": 2,
+    "id": 4026,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgAMGameServerUpdate",
+    "flags": 2,
+    "id": 4331,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgAMGameServerRemove",
+    "flags": 2,
+    "id": 4332,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgAMTwoFactorRecoverAuthenticatorRequest",
+    "flags": 2,
+    "id": 4402,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgAMTwoFactorRecoverAuthenticatorResponse",
+    "flags": 2,
+    "id": 4403,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgAMValidatePasswordResetCodeAndSendSmsRequest",
+    "flags": 2,
+    "id": 4406,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgAMValidatePasswordResetCodeAndSendSmsResponse",
+    "flags": 2,
+    "id": 4407,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgAMGetAccountResetDetailsRequest",
+    "flags": 2,
+    "id": 4408,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgAMGetAccountResetDetailsResponse",
+    "flags": 2,
+    "id": 4409,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRequestForgottenPasswordEmail",
+    "flags": 2,
+    "id": 5401,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRequestForgottenPasswordEmailResponse",
+    "flags": 2,
+    "id": 5402,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientCreateAccountResponse",
+    "flags": 2,
+    "id": 5403,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientResetForgottenPassword",
+    "flags": 2,
+    "id": 5404,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientResetForgottenPasswordResponse",
+    "flags": 2,
+    "id": 5405,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientInformOfResetForgottenPassword",
+    "flags": 2,
+    "id": 5407,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientInformOfResetForgottenPasswordResponse",
+    "flags": 2,
+    "id": 5408,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientAnonUserLogOn_Deprecated",
+    "flags": 2,
+    "id": 5409,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGamesPlayedWithDataBlob",
+    "flags": 6,
+    "id": 5410,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientUpdateUserGameInfo",
+    "flags": 2,
+    "id": 5411,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientFileToDownload",
+    "flags": 2,
+    "id": 5412,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientFileToDownloadResponse",
+    "flags": 2,
+    "id": 5413,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientLBSSetScore",
+    "flags": 6,
+    "id": 5414,
+    "server_type": 34
+  },
+  {
+    "descriptor": "k_EMsgClientLBSSetScoreResponse",
+    "flags": 6,
+    "id": 5415,
+    "server_type": 34
+  },
+  {
+    "descriptor": "k_EMsgClientLBSFindOrCreateLB",
+    "flags": 6,
+    "id": 5416,
+    "server_type": 34
+  },
+  {
+    "descriptor": "k_EMsgClientLBSFindOrCreateLBResponse",
+    "flags": 6,
+    "id": 5417,
+    "server_type": 34
+  },
+  {
+    "descriptor": "k_EMsgClientLBSGetLBEntries",
+    "flags": 6,
+    "id": 5418,
+    "server_type": 34
+  },
+  {
+    "descriptor": "k_EMsgClientLBSGetLBEntriesResponse",
+    "flags": 6,
+    "id": 5419,
+    "server_type": 34
+  },
+  {
+    "descriptor": "k_EMsgClientChatDeclined",
+    "flags": 2,
+    "id": 5426,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientFriendMsgIncoming",
+    "flags": 2,
+    "id": 5427,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientAuthList_Deprecated",
+    "flags": 2,
+    "id": 5428,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientTicketAuthComplete",
+    "flags": 2,
+    "id": 5429,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientIsLimitedAccount",
+    "flags": 2,
+    "id": 5430,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRequestAuthList",
+    "flags": 2,
+    "id": 5431,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientAuthList",
+    "flags": 6,
+    "id": 5432,
+    "server_type": 58
+  },
+  {
+    "descriptor": "k_EMsgClientP2PConnectionInfo",
+    "flags": 2,
+    "id": 5434,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientP2PConnectionFailInfo",
+    "flags": 2,
+    "id": 5435,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetDepotDecryptionKey",
+    "flags": 2,
+    "id": 5438,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetDepotDecryptionKeyResponse",
+    "flags": 2,
+    "id": 5439,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientEnableTestLicense",
+    "flags": 2,
+    "id": 5443,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientEnableTestLicenseResponse",
+    "flags": 2,
+    "id": 5444,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientDisableTestLicense",
+    "flags": 2,
+    "id": 5445,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientDisableTestLicenseResponse",
+    "flags": 2,
+    "id": 5446,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientCheckAppBetaPassword",
+    "flags": 2,
+    "id": 5450,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientCheckAppBetaPasswordResponse",
+    "flags": 2,
+    "id": 5451,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientToGC",
+    "flags": 6,
+    "id": 5452,
+    "server_type": 57
+  },
+  {
+    "descriptor": "k_EMsgClientFromGC",
+    "flags": 2,
+    "id": 5453,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientEmailAddrInfo",
+    "flags": 2,
+    "id": 5456,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientPasswordChange3",
+    "flags": 2,
+    "id": 5457,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientEmailChange3",
+    "flags": 2,
+    "id": 5458,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientPersonalQAChange3",
+    "flags": 2,
+    "id": 5459,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientResetForgottenPassword3",
+    "flags": 2,
+    "id": 5460,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRequestForgottenPasswordEmail3",
+    "flags": 2,
+    "id": 5461,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientNewLoginKey",
+    "flags": 2,
+    "id": 5463,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientNewLoginKeyAccepted_Deprecated",
+    "flags": 2,
+    "id": 5464,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientLogOnWithHash_Deprecated",
+    "flags": 2,
+    "id": 5465,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientStoreUserStats2",
+    "flags": 2,
+    "id": 5466,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientStatsUpdated",
+    "flags": 2,
+    "id": 5467,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientDRMDownloadRequest",
+    "flags": 2,
+    "id": 5485,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientDRMDownloadResponse",
+    "flags": 2,
+    "id": 5486,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientDRMFinalResult",
+    "flags": 2,
+    "id": 5487,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetFriendsWhoPlayGame",
+    "flags": 6,
+    "id": 5488,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientGetFriendsWhoPlayGameResponse",
+    "flags": 6,
+    "id": 5489,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientOGSBeginSession",
+    "flags": 2,
+    "id": 5490,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientOGSBeginSessionResponse",
+    "flags": 2,
+    "id": 5491,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientOGSEndSession",
+    "flags": 2,
+    "id": 5492,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientOGSEndSessionResponse",
+    "flags": 2,
+    "id": 5493,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientOGSWriteRow",
+    "flags": 6,
+    "id": 5494,
+    "server_type": 39
+  },
+  {
+    "descriptor": "k_EMsgClientGetPeerContentInfo",
+    "flags": 2,
+    "id": 5495,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetPeerContentInfoResponse",
+    "flags": 2,
+    "id": 5496,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientStartPeerContentServer",
+    "flags": 2,
+    "id": 5497,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientStartPeerContentServerResponse",
+    "flags": 2,
+    "id": 5498,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientServerUnavailable",
+    "flags": 2,
+    "id": 5500,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientServersAvailable",
+    "flags": 2,
+    "id": 5501,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRegisterAuthTicketWithCM",
+    "flags": 2,
+    "id": 5502,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGCMsgFailed",
+    "flags": 2,
+    "id": 5503,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientMicroTxnAuthRequest",
+    "flags": 2,
+    "id": 5504,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientMicroTxnAuthorize",
+    "flags": 2,
+    "id": 5505,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientMicroTxnAuthorizeResponse",
+    "flags": 2,
+    "id": 5506,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetMicroTxnInfo",
+    "flags": 2,
+    "id": 5508,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetMicroTxnInfoResponse",
+    "flags": 2,
+    "id": 5509,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientDeregisterWithServer",
+    "flags": 2,
+    "id": 5511,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientSubscribeToPersonaFeed",
+    "flags": 2,
+    "id": 5512,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientLogon",
+    "flags": 2,
+    "id": 5514,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetClientDetails",
+    "flags": 6,
+    "id": 5515,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientGetClientDetailsResponse",
+    "flags": 6,
+    "id": 5516,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientReportOverlayDetourFailure",
+    "flags": 43,
+    "id": 5517,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetClientAppList",
+    "flags": 6,
+    "id": 5518,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientGetClientAppListResponse",
+    "flags": 6,
+    "id": 5519,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientInstallClientApp",
+    "flags": 6,
+    "id": 5520,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientInstallClientAppResponse",
+    "flags": 6,
+    "id": 5521,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientUninstallClientApp",
+    "flags": 6,
+    "id": 5522,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientUninstallClientAppResponse",
+    "flags": 6,
+    "id": 5523,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientSetClientAppUpdateState",
+    "flags": 6,
+    "id": 5524,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientSetClientAppUpdateStateResponse",
+    "flags": 6,
+    "id": 5525,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientRequestEncryptedAppTicket",
+    "flags": 2,
+    "id": 5526,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRequestEncryptedAppTicketResponse",
+    "flags": 2,
+    "id": 5527,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientWalletInfoUpdate",
+    "flags": 2,
+    "id": 5528,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientLBSSetUGC",
+    "flags": 6,
+    "id": 5529,
+    "server_type": 34
+  },
+  {
+    "descriptor": "k_EMsgClientLBSSetUGCResponse",
+    "flags": 6,
+    "id": 5530,
+    "server_type": 34
+  },
+  {
+    "descriptor": "k_EMsgClientAMGetClanOfficers",
+    "flags": 2,
+    "id": 5531,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientAMGetClanOfficersResponse",
+    "flags": 2,
+    "id": 5532,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientFriendProfileInfo",
+    "flags": 2,
+    "id": 5535,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientFriendProfileInfoResponse",
+    "flags": 2,
+    "id": 5536,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientScreenshotsChanged",
+    "flags": 2,
+    "id": 5543,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientLaunchClientApp",
+    "flags": 6,
+    "id": 5544,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientLaunchClientAppResponse",
+    "flags": 6,
+    "id": 5545,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientResetForgottenPassword4",
+    "flags": 2,
+    "id": 5551,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientHideFriend",
+    "flags": 2,
+    "id": 5552,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientFriendsGroupsList",
+    "flags": 2,
+    "id": 5553,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetClanActivityCounts",
+    "flags": 2,
+    "id": 5554,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetClanActivityCountsResponse",
+    "flags": 2,
+    "id": 5555,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientSentLogs",
+    "flags": 2,
+    "id": 5558,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientLogonGameServer",
+    "flags": 2,
+    "id": 5559,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgAMClientCreateFriendsGroup",
+    "flags": 6,
+    "id": 5560,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgAMClientCreateFriendsGroupResponse",
+    "flags": 6,
+    "id": 5561,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgAMClientDeleteFriendsGroup",
+    "flags": 6,
+    "id": 5562,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgAMClientDeleteFriendsGroupResponse",
+    "flags": 6,
+    "id": 5563,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgAMClientManageFriendsGroup",
+    "flags": 6,
+    "id": 5564,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgAMClientManageFriendsGroupResponse",
+    "flags": 6,
+    "id": 5565,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgAMClientAddFriendToGroup",
+    "flags": 6,
+    "id": 5566,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgAMClientAddFriendToGroupResponse",
+    "flags": 6,
+    "id": 5567,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgAMClientRemoveFriendFromGroup",
+    "flags": 6,
+    "id": 5568,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgAMClientRemoveFriendFromGroupResponse",
+    "flags": 6,
+    "id": 5569,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientAMGetPersonaNameHistory",
+    "flags": 2,
+    "id": 5570,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientAMGetPersonaNameHistoryResponse",
+    "flags": 2,
+    "id": 5571,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRequestFreeLicense",
+    "flags": 2,
+    "id": 5572,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRequestFreeLicenseResponse",
+    "flags": 2,
+    "id": 5573,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientDRMDownloadRequestWithCrashData",
+    "flags": 2,
+    "id": 5574,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientAuthListAck",
+    "flags": 2,
+    "id": 5575,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientItemAnnouncements",
+    "flags": 2,
+    "id": 5576,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRequestItemAnnouncements",
+    "flags": 6,
+    "id": 5577,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientFriendMsgEchoToSender",
+    "flags": 2,
+    "id": 5578,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientCommentNotifications",
+    "flags": 2,
+    "id": 5582,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRequestCommentNotifications",
+    "flags": 6,
+    "id": 5583,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientPersonaChangeResponse",
+    "flags": 2,
+    "id": 5584,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRequestWebAPIAuthenticateUserNonce_Deprecated",
+    "flags": 2,
+    "id": 5585,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRequestWebAPIAuthenticateUserNonceResponse_Deprecated",
+    "flags": 2,
+    "id": 5586,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientPlayerNicknameList",
+    "flags": 2,
+    "id": 5587,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgAMClientSetPlayerNickname",
+    "flags": 2,
+    "id": 5588,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgAMClientSetPlayerNicknameResponse",
+    "flags": 2,
+    "id": 5589,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGetNumberOfCurrentPlayersDP",
+    "flags": 6,
+    "id": 5592,
+    "server_type": 17
+  },
+  {
+    "descriptor": "k_EMsgClientGetNumberOfCurrentPlayersDPResponse",
+    "flags": 6,
+    "id": 5593,
+    "server_type": 17
+  },
+  {
+    "descriptor": "k_EMsgClientServiceMethodLegacy",
+    "flags": 6,
+    "id": 5594,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientServiceMethodLegacyResponse",
+    "flags": 6,
+    "id": 5595,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientFriendUserStatusPublished",
+    "flags": 2,
+    "id": 5596,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientCurrentUIMode",
+    "flags": 2,
+    "id": 5597,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientVanityURLChangedNotification",
+    "flags": 2,
+    "id": 5598,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientUserNotifications",
+    "flags": 2,
+    "id": 5599,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientDFSAuthenticateRequest",
+    "flags": 2,
+    "id": 5605,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientDFSAuthenticateResponse",
+    "flags": 2,
+    "id": 5606,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientDFSEndSession",
+    "flags": 2,
+    "id": 5607,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientDFSDownloadStatus",
+    "flags": 2,
+    "id": 5617,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientNetworkingCertRequest",
+    "flags": 2,
+    "id": 5621,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientNetworkingCertRequestResponse",
+    "flags": 2,
+    "id": 5622,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientChallengeRequest",
+    "flags": 2,
+    "id": 5623,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientChallengeResponse",
+    "flags": 2,
+    "id": 5624,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgBadgeCraftedNotification",
+    "flags": 2,
+    "id": 5625,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientNetworkingMobileCertRequest",
+    "flags": 2,
+    "id": 5626,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientNetworkingMobileCertRequestResponse",
+    "flags": 2,
+    "id": 5627,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientGMSServerQuery",
+    "flags": 47,
+    "id": 6403,
+    "server_type": 43
+  },
+  {
+    "descriptor": "k_EMsgGMSClientServerQueryResponse",
+    "flags": 43,
+    "id": 6404,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgGameServerOutOfDate",
+    "flags": 43,
+    "id": 6407,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientMMSCreateLobby",
+    "flags": 47,
+    "id": 6601,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSCreateLobbyResponse",
+    "flags": 47,
+    "id": 6602,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSJoinLobby",
+    "flags": 47,
+    "id": 6603,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSJoinLobbyResponse",
+    "flags": 47,
+    "id": 6604,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSLeaveLobby",
+    "flags": 47,
+    "id": 6605,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSLeaveLobbyResponse",
+    "flags": 47,
+    "id": 6606,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSGetLobbyList",
+    "flags": 47,
+    "id": 6607,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSGetLobbyListResponse",
+    "flags": 47,
+    "id": 6608,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSSetLobbyData",
+    "flags": 6,
+    "id": 6609,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSSetLobbyDataResponse",
+    "flags": 6,
+    "id": 6610,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSGetLobbyData",
+    "flags": 47,
+    "id": 6611,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSLobbyData",
+    "flags": 47,
+    "id": 6612,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSSendLobbyChatMsg",
+    "flags": 6,
+    "id": 6613,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSLobbyChatMsg",
+    "flags": 6,
+    "id": 6614,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSSetLobbyOwner",
+    "flags": 6,
+    "id": 6615,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSSetLobbyOwnerResponse",
+    "flags": 6,
+    "id": 6616,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSSetLobbyGameServer",
+    "flags": 6,
+    "id": 6617,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSLobbyGameServerSet",
+    "flags": 6,
+    "id": 6618,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSUserJoinedLobby",
+    "flags": 6,
+    "id": 6619,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSUserLeftLobby",
+    "flags": 6,
+    "id": 6620,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSInviteToLobby",
+    "flags": 47,
+    "id": 6621,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSSetLobbyLinked",
+    "flags": 6,
+    "id": 6624,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSSetRatelimitPolicyOnClient",
+    "flags": 6,
+    "id": 6625,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSGetLobbyStatus",
+    "flags": 6,
+    "id": 6626,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgClientMMSGetLobbyStatusResponse",
+    "flags": 6,
+    "id": 6627,
+    "server_type": 42
+  },
+  {
+    "descriptor": "k_EMsgGameServerPolicyUpdate",
+    "flags": 2,
+    "id": 6631,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgNonStdMsgMemcached",
+    "flags": 0,
+    "id": 6801,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgNonStdMsgHTTPServer",
+    "flags": 0,
+    "id": 6802,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgNonStdMsgHTTPClient",
+    "flags": 0,
+    "id": 6803,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgNonStdMsgWGResponse",
+    "flags": 0,
+    "id": 6804,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgNonStdMsgPHPSimulator",
+    "flags": 0,
+    "id": 6805,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgNonStdMsgChase",
+    "flags": 0,
+    "id": 6806,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgNonStdMsgDFSTransfer",
+    "flags": 0,
+    "id": 6807,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgNonStdMsgTests",
+    "flags": 0,
+    "id": 6808,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgNonStdMsgUMQpipeAAPL",
+    "flags": 0,
+    "id": 6809,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMSgNonStdMsgSyslog",
+    "flags": 0,
+    "id": 6810,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgNonStdMsgRedis",
+    "flags": 0,
+    "id": 6815,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientUDSP2PSessionStarted",
+    "flags": 6,
+    "id": 7001,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientUDSP2PSessionEnded",
+    "flags": 6,
+    "id": 7002,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientInviteToGame",
+    "flags": 6,
+    "id": 7005,
+    "server_type": 102
+  },
+  {
+    "descriptor": "k_EMsgClientUCMAddScreenshot",
+    "flags": 6,
+    "id": 7301,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMAddScreenshotResponse",
+    "flags": 6,
+    "id": 7302,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMDeleteScreenshot",
+    "flags": 6,
+    "id": 7309,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMDeleteScreenshotResponse",
+    "flags": 6,
+    "id": 7310,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMPublishFile",
+    "flags": 6,
+    "id": 7311,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMPublishFileResponse",
+    "flags": 6,
+    "id": 7312,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMDeletePublishedFile",
+    "flags": 6,
+    "id": 7315,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMDeletePublishedFileResponse",
+    "flags": 6,
+    "id": 7316,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMUpdatePublishedFile",
+    "flags": 6,
+    "id": 7325,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMUpdatePublishedFileResponse",
+    "flags": 6,
+    "id": 7326,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMSetUserPublishedFileAction",
+    "flags": 6,
+    "id": 7364,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMSetUserPublishedFileActionResponse",
+    "flags": 6,
+    "id": 7365,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMEnumeratePublishedFilesByUserAction",
+    "flags": 6,
+    "id": 7366,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMEnumeratePublishedFilesByUserActionResponse",
+    "flags": 6,
+    "id": 7367,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMEnumerateUserSubscribedFilesWithUpdates",
+    "flags": 6,
+    "id": 7378,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMEnumerateUserSubscribedFilesWithUpdatesResponse",
+    "flags": 6,
+    "id": 7379,
+    "server_type": 45
+  },
+  {
+    "descriptor": "k_EMsgClientUCMPublishedFileUpdated",
+    "flags": 2,
+    "id": 7381,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientRichPresenceUpload",
+    "flags": 6,
+    "id": 7501,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientRichPresenceRequest",
+    "flags": 6,
+    "id": 7502,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientRichPresenceInfo",
+    "flags": 2,
+    "id": 7503,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientFSGetFollowerCount",
+    "flags": 6,
+    "id": 7515,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientFSGetFollowerCountResponse",
+    "flags": 6,
+    "id": 7516,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientFSGetIsFollowing",
+    "flags": 6,
+    "id": 7517,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientFSGetIsFollowingResponse",
+    "flags": 6,
+    "id": 7518,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientFSEnumerateFollowingList",
+    "flags": 6,
+    "id": 7519,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientFSEnumerateFollowingListResponse",
+    "flags": 6,
+    "id": 7520,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientChatOfflineMessageNotification",
+    "flags": 2,
+    "id": 7523,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientChatRequestOfflineMessageCount",
+    "flags": 6,
+    "id": 7524,
+    "server_type": 102
+  },
+  {
+    "descriptor": "k_EMsgClientChatGetFriendMessageHistory",
+    "flags": 6,
+    "id": 7525,
+    "server_type": 102
+  },
+  {
+    "descriptor": "k_EMsgClientChatGetFriendMessageHistoryResponse",
+    "flags": 6,
+    "id": 7526,
+    "server_type": 102
+  },
+  {
+    "descriptor": "k_EMsgClientChatGetFriendMessageHistoryForOfflineMessages",
+    "flags": 6,
+    "id": 7527,
+    "server_type": 102
+  },
+  {
+    "descriptor": "k_EMsgClientFSGetFriendsSteamLevels",
+    "flags": 6,
+    "id": 7528,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgClientFSGetFriendsSteamLevelsResponse",
+    "flags": 6,
+    "id": 7529,
+    "server_type": 47
+  },
+  {
+    "descriptor": "k_EMsgEconTrading_InitiateTradeRequest",
+    "flags": 6,
+    "id": 7701,
+    "server_type": 59
+  },
+  {
+    "descriptor": "k_EMsgEconTrading_InitiateTradeProposed",
+    "flags": 2,
+    "id": 7702,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgEconTrading_InitiateTradeResponse",
+    "flags": 6,
+    "id": 7703,
+    "server_type": 59
+  },
+  {
+    "descriptor": "k_EMsgEconTrading_InitiateTradeResult",
+    "flags": 2,
+    "id": 7704,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgEconTrading_StartSession",
+    "flags": 2,
+    "id": 7705,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgEconTrading_CancelTradeRequest",
+    "flags": 6,
+    "id": 7706,
+    "server_type": 59
+  },
+  {
+    "descriptor": "k_EMsgClientUGSGetGlobalStats",
+    "flags": 6,
+    "id": 7901,
+    "server_type": 119
+  },
+  {
+    "descriptor": "k_EMsgClientUGSGetGlobalStatsResponse",
+    "flags": 6,
+    "id": 7902,
+    "server_type": 119
+  },
+  {
+    "descriptor": "k_EMsgCREItemVoteSummary",
+    "flags": 6,
+    "id": 8503,
+    "server_type": 53
+  },
+  {
+    "descriptor": "k_EMsgCREItemVoteSummaryResponse",
+    "flags": 6,
+    "id": 8504,
+    "server_type": 53
+  },
+  {
+    "descriptor": "k_EMsgCREUpdateUserPublishedItemVote",
+    "flags": 6,
+    "id": 8507,
+    "server_type": 53
+  },
+  {
+    "descriptor": "k_EMsgCREUpdateUserPublishedItemVoteResponse",
+    "flags": 6,
+    "id": 8508,
+    "server_type": 53
+  },
+  {
+    "descriptor": "k_EMsgCREGetUserPublishedItemVoteDetails",
+    "flags": 6,
+    "id": 8509,
+    "server_type": 53
+  },
+  {
+    "descriptor": "k_EMsgCREGetUserPublishedItemVoteDetailsResponse",
+    "flags": 6,
+    "id": 8510,
+    "server_type": 53
+  },
+  {
+    "descriptor": "k_EMsgClientPICSChangesSinceRequest",
+    "flags": 6,
+    "id": 8901,
+    "server_type": 14
+  },
+  {
+    "descriptor": "k_EMsgClientPICSChangesSinceResponse",
+    "flags": 6,
+    "id": 8902,
+    "server_type": 14
+  },
+  {
+    "descriptor": "k_EMsgClientPICSProductInfoRequest",
+    "flags": 6,
+    "id": 8903,
+    "server_type": 14
+  },
+  {
+    "descriptor": "k_EMsgClientPICSProductInfoResponse",
+    "flags": 6,
+    "id": 8904,
+    "server_type": 14
+  },
+  {
+    "descriptor": "k_EMsgClientPICSAccessTokenRequest",
+    "flags": 6,
+    "id": 8905,
+    "server_type": 14
+  },
+  {
+    "descriptor": "k_EMsgClientPICSAccessTokenResponse",
+    "flags": 6,
+    "id": 8906,
+    "server_type": 14
+  },
+  {
+    "descriptor": "k_EMsgClientPICSPrivateBetaRequest",
+    "flags": 6,
+    "id": 8907,
+    "server_type": 14
+  },
+  {
+    "descriptor": "k_EMsgClientPICSPrivateBetaResponse",
+    "flags": 6,
+    "id": 8908,
+    "server_type": 14
+  },
+  {
+    "descriptor": "k_EMsgClientGetEmoticonList",
+    "flags": 6,
+    "id": 9330,
+    "server_type": 63
+  },
+  {
+    "descriptor": "k_EMsgClientEmoticonList",
+    "flags": 2,
+    "id": 9331,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientSharedLibraryStopPlaying",
+    "flags": 2,
+    "id": 9406,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgRemoteClientStartStream",
+    "flags": 2,
+    "id": 9503,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgRemoteClientStartStreamResponse",
+    "flags": 2,
+    "id": 9504,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgRemoteClientPing",
+    "flags": 2,
+    "id": 9505,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgRemoteClientPingResponse",
+    "flags": 2,
+    "id": 9506,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientUnlockH264",
+    "flags": 43,
+    "id": 9507,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientUnlockH264Response",
+    "flags": 43,
+    "id": 9508,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgRemoteClientGetControllerConfig",
+    "flags": 2,
+    "id": 9510,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgRemoteClientGetControllerConfigResponse",
+    "flags": 2,
+    "id": 9511,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgRemoteClientAuthorizationRequest",
+    "flags": 2,
+    "id": 9517,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgRemoteClientAuthorizationResponse",
+    "flags": 2,
+    "id": 9518,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgRemoteClientAuthorizationCancelRequest",
+    "flags": 2,
+    "id": 9519,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgRemoteClientAuthorizationConfirmed",
+    "flags": 2,
+    "id": 9520,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgRemoteClientProofRequest",
+    "flags": 2,
+    "id": 9521,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgRemoteClientProofResponse",
+    "flags": 2,
+    "id": 9522,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgRemoteClientPairWifiAP",
+    "flags": 2,
+    "id": 9524,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientPlayingSessionState",
+    "flags": 2,
+    "id": 9600,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientKickPlayingSession",
+    "flags": 2,
+    "id": 9601,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientBroadcastInit",
+    "flags": 2,
+    "id": 9700,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientBroadcastFrames",
+    "flags": 2,
+    "id": 9701,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientBroadcastDisconnect",
+    "flags": 2,
+    "id": 9702,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientBroadcastUploadConfig",
+    "flags": 2,
+    "id": 9704,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientVoiceCallPreAuthorize",
+    "flags": 43,
+    "id": 9800,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientVoiceCallPreAuthorizeResponse",
+    "flags": 43,
+    "id": 9801,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientServerTimestampRequest",
+    "flags": 2,
+    "id": 9802,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgServiceMethodCallFromClientNonAuthed",
+    "flags": 6,
+    "id": 9804,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientHello",
+    "flags": 2,
+    "id": 9805,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientEnableOrDisableDownloads",
+    "flags": 6,
+    "id": 9806,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientEnableOrDisableDownloadsResponse",
+    "flags": 6,
+    "id": 9807,
+    "server_type": 41
+  },
+  {
+    "descriptor": "k_EMsgClientLANP2PRequestChunk",
+    "flags": 2,
+    "id": 9900,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientLANP2PRequestChunkResponse",
+    "flags": 2,
+    "id": 9901,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientPeerChunkRequest",
+    "flags": 2,
+    "id": 9902,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientPeerChunkResponse",
+    "flags": 2,
+    "id": 9903,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientSiteLicenseSiteInfoNotification",
+    "flags": 2,
+    "id": 10100,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientSiteLicenseCheckout",
+    "flags": 2,
+    "id": 10101,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientSiteLicenseCheckoutResponse",
+    "flags": 2,
+    "id": 10102,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientSiteLicenseGetAvailableSeats",
+    "flags": 2,
+    "id": 10103,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientSiteLicenseGetAvailableSeatsResponse",
+    "flags": 2,
+    "id": 10104,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientSiteLicenseGetContentCacheInfo",
+    "flags": 2,
+    "id": 10105,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientSiteLicenseGetContentCacheInfoResponse",
+    "flags": 2,
+    "id": 10106,
+    "server_type": -1
+  },
+  {
+    "descriptor": "k_EMsgClientPendingGameLaunch",
+    "flags": 6,
+    "id": 12300,
+    "server_type": 5
+  },
+  {
+    "descriptor": "k_EMsgClientPendingGameLaunchResponse",
+    "flags": 6,
+    "id": 12301,
+    "server_type": 5
+  }
+]
