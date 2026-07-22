@@ -2012,7 +2012,7 @@
     "DispatchClearAllBrowsingData",
     "DispatchClientSettingsChanged",
     "DispatchClientPostMessage",
-    "IsSteamChina",
+    "unknown_81",
     "NeedsSteamChinaWorkshop",
     "InitFilterText",
     "FilterText",
